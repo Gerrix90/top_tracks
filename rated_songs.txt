@@ -1,6 +1,6 @@
 [
   {
-    "Position": 1,
+    "rating": 1,
     "Track Name": "thank u, next",
     "Artist": "Ariana Grande",
     "Yt": "5OeR5XBEahU", 
@@ -8,7 +8,7 @@
     "id" : "00mBzIWv5gHOYxwuEJXjOG"
   },
   {
-    "Position": 2,
+    "rating": 2,
     "Track Name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
     "Artist": "DJ Snake",
     "Yt": "BPoePa1pV78", 
@@ -17,7 +17,7 @@
 
   },
   {
-    "Position": 3,
+    "rating": 3,
     "Track Name": "MIA (feat. Drake)",
     "Artist": "Bad Bunny",
     "Yt": "OSUxrSe5GbI", 
@@ -26,7 +26,7 @@
 
   },
   {
-    "Position": 4,
+    "rating": 4,
     "Track Name": "Without Me",
     "Artist": "Halsey",
     "Yt": "aYr4fDuLhXg", 
@@ -35,7 +35,7 @@
 
   },
   {
-    "Position": 5,
+    "rating": 5,
     "Track Name": "Happier",
     "Artist": "Marshmello",
     "Yt": "m7Bc3pLyij0", 
@@ -44,7 +44,7 @@
 
   },
   {
-    "Position": 6,
+    "rating": 6,
     "Track Name": "SICKO MODE",
     "Artist": "Travis Scott",
     "Yt": "d-JBBNg8YKs", 
@@ -53,7 +53,7 @@
 
   },
   {
-    "Position": 7,
+    "rating": 7,
     "Track Name": "ZEZE (feat. Travis Scott & Offset)",
     "Artist": "Kodak Black",
     "Yt": "mjaayCARwro", 
@@ -62,7 +62,7 @@
 
   },
   {
-    "Position": 8,
+    "rating": 8,
     "Track Name": "Sunflower - Spider-Man: Into the Spider-Verse",
     "Artist": "Post Malone",
     "Yt": "ApXoWvfEYVU", 
@@ -71,7 +71,7 @@
 
   },
   {
-    "Position": 9,
+    "rating": 9,
     "Track Name": "Arms Around You (feat. Maluma & Swae Lee)",
     "Artist": "XXXTENTACION",
     "Yt": "BxFvI-zpaRs", 
