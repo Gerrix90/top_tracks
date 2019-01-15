@@ -4,7 +4,7 @@
     "Track Name": "thank u, next",
     "Artist": "Ariana Grande",
     "Yt": "5OeR5XBEahU", 
-    "img" : "https://i.scdn.co/image/77eb7c17cafe55013492042deca1ed9a02e6d46e", 
+    "img" : "https://i.scdn.co/image/41fe447e1bf27986af9fdba8685cb96bf145e5db", 
     "id" : "00mBzIWv5gHOYxwuEJXjOG"
   },
   {
