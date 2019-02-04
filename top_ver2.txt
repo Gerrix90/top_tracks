@@ -30,7 +30,7 @@
     "Track Name": "Wow.",
     "Artist": "Post Malone",
     "Yt": "D0i23wZ0IeE", 
-        "img" : "https://i.scdn.co/image/77eb7c17cafe55013492042deca1ed9a02e6d46e", 
+        "img" : "https://i.scdn.co/image/4a09059a2a756967588647bbcb5fd5f6fd8dd434", 
         "id" : "6MWtB6iiXyIwun0YzU6DFP"
 
   },
