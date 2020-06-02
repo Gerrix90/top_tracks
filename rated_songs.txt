@@ -1,11 +1,11 @@
 [
   {
     "rating": 5,
-    "Track Name": "Sweet but Psycho",
-    "Artist": "Ava Max",
-    "Yt": "WXBHCQYxwr0", 
-    "img" : "https://i.scdn.co/image/9f92262af6d017302030d673f2826260b777edaf", 
-    "id" : "25sgk305KZfyuqVBQIahim"
+    "Track Name": "Go Back",
+    "Artist": "Maurice James",
+    "Yt": "8vd9uoPWzHY", 
+    "img" : "https://i.scdn.co/image/ab67616d0000b273d45b3b590a4e169ce33f2e4c", 
+    "id" : "0Tq22gGJTbCqwrDBqh2cRn"
   },
   {
     "rating": 4,
@@ -18,11 +18,11 @@
   },
   {
     "rating": 5,
-    "Track Name": "Dancing With A Stranger (with Normani)",
-    "Artist": "Sam Smith",
-    "Yt": "av5JD1dfj_c", 
-    "img" : "https://i.scdn.co/image/f106fef8fa58a0b6c28f9fefb16c990a620f8337", 
-    "id" : "6Qs4SXO9dwPj5GKvVOv8Ki"
+    "Track Name": "Long Time Comin'",
+    "Artist": "Justin Fancy",
+    "Yt": "w1yCAzuO8Q0", 
+    "img" : "https://i.scdn.co/image/ab67616d0000b2739d5c8c7cc0aeda01d1b3627e", 
+    "id" : "2nDM6RL0kyusJzoLxBPWyO"
 
   },
   {
